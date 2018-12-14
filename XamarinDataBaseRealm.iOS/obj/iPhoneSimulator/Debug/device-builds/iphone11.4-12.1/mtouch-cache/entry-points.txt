@@ -1,0 +1,1324 @@
+Function=xamarin_timezone_get_names
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_data
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_log
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_get_locale_country_code
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_release_block_on_main_thread
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_start_wwan
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/System.dll
+Function=xamarin_get_block_descriptor
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_NMatrix4
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_NMatrix4
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_NMatrix4
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_NMatrix4
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_stret
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_stret
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix3_objc_msgSend
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix3_objc_msgSendSuper
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix3_objc_msgSend_stret
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix3_objc_msgSendSuper_stret
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSend_NVector3_int_CGSize
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSendSuper_NVector3_int_CGSize
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSend_stret_NVector3_int_CGSize
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSendSuper_stret_NVector3_int_CGSize
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSend_NVector3_Int64_CGSize
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSendSuper_NVector3_Int64_CGSize
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSend_stret_NVector3_Int64_CGSize
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSendSuper_stret_NVector3_Int64_CGSize
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_CGPoint_NMatrix4_int_CGSize
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_CGPoint_NMatrix4_int_CGSize
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_stret_CGPoint_NMatrix4_int_CGSize
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_stret_CGPoint_NMatrix4_int_CGSize
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_CGPoint_NMatrix4_Int64_CGSize
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_CGPoint_NMatrix4_Int64_CGSize
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_stret_CGPoint_NMatrix4_Int64_CGSize
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_stret_CGPoint_NMatrix4_Int64_CGSize
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_int_CGSize_nfloat_nfloat
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_int_CGSize_nfloat_nfloat
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret_int_CGSize_nfloat_nfloat
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret_int_CGSize_nfloat_nfloat
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_Int64_CGSize_nfloat_nfloat
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_Int64_CGSize_nfloat_nfloat
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret_Int64_CGSize_nfloat_nfloat
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret_Int64_CGSize_nfloat_nfloat
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_int
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_int
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret_int
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret_int
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_Int64
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_Int64
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret_Int64
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret_Int64
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_NMatrix4_NVector3
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_NMatrix4_NVector3
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_NMatrix4_NVector3
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_NMatrix4_NVector3
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_CGPoint_NMatrix4
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_CGPoint_NMatrix4
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_stret_CGPoint_NMatrix4
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_stret_CGPoint_NMatrix4
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix4
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix4
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix4_NVector3_NVector3_IntPtr
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix4_NVector3_NVector3_IntPtr
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4x3_objc_msgSend
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4x3_objc_msgSendSuper
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4x3_objc_msgSend_stret
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4x3_objc_msgSendSuper_stret
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_IntPtr_UInt32
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_IntPtr_UInt32
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_IntPtr_UInt64
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_IntPtr_UInt64
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_nint_nint_nint_UInt32
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_nint_nint_nint_UInt32
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_nint_nint_nint_UInt64
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_nint_nint_nint_UInt64
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_UInt32_nint_UInt32
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_UInt32_nint_UInt32
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_UInt64_nint_UInt64
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_UInt64_nint_UInt64
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_stret
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_stret
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector2
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector2
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_stret
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_stret
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector3
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector3
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix3_objc_msgSend
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix3_objc_msgSendSuper
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix3_objc_msgSend_stret
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix3_objc_msgSendSuper_stret
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Matrix3
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Matrix3
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix3
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix3
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2i_objc_msgSend
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2i_objc_msgSendSuper
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2i_objc_msgSend_stret
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2i_objc_msgSendSuper_stret
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2i_int_int_bool
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2i_int_int_bool
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2i_int_int_bool_IntPtr
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2i_int_int_bool_IntPtr
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2i
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2i
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_Vector2_Vector2_IntPtr
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_Vector2_Vector2_IntPtr
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_Vector2_Vector2
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_Vector2_Vector2
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKTriangle_objc_msgSend_nuint
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKTriangle_objc_msgSendSuper_nuint
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKTriangle_objc_msgSend_stret_nuint
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKTriangle_objc_msgSendSuper_stret_nuint
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__float_objc_msgSend_Vector2
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__float_objc_msgSendSuper_Vector2
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector3d
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector3d
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSend
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSendSuper
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSend_stret
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSendSuper_stret
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Vector2d_Vector2d_Vector2i_bool
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Vector2d_Vector2d_Vector2i_bool
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__float_objc_msgSend_Vector2i
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__float_objc_msgSendSuper_Vector2i
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_float_Vector2i
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_float_Vector2i
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKBox_objc_msgSend
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKBox_objc_msgSendSuper
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKBox_objc_msgSend_stret
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKBox_objc_msgSendSuper_stret
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_GKBox_float
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_GKBox_float
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Vector3
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Vector3
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_GKBox
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_GKBox
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_GKBox
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_GKBox
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_nuint
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_nuint
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_stret_nuint
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_stret_nuint
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_nuint
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_nuint
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_stret_nuint
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_stret_nuint
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_GKQuad_float
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_GKQuad_float
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Vector2
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Vector2
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_GKQuad
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_GKQuad
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_GKQuad
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_GKQuad
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2_Vector2_float
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2_Vector2_float
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Vector2_Vector2
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Vector2_Vector2
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2_Vector2
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2_Vector2
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKQuad_objc_msgSend
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKQuad_objc_msgSendSuper
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKQuad_objc_msgSend_stret
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKQuad_objc_msgSendSuper_stret
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_IntPtr_Vector2_Vector2_int
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_IntPtr_Vector2_Vector2_int
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_IntPtr_Vector2_Vector2_Int64
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_IntPtr_Vector2_Vector2_Int64
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_IntPtr_Vector2_Vector2
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_IntPtr_Vector2_Vector2
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSImageHistogramInfo_objc_msgSend
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSImageHistogramInfo_objc_msgSendSuper
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSImageHistogramInfo_objc_msgSend_stret
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSImageHistogramInfo_objc_msgSendSuper_stret
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSend
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSendSuper
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSend_stret
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSendSuper_stret
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector4
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector4
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_ref_MPSImageHistogramInfo
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_ref_MPSImageHistogramInfo
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix4_Double
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix4_Double
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix4d_Double
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix4d_Double
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_Double
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_Double
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret_Double
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret_Double
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSend_Double
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSendSuper_Double
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSend_stret_Double
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSendSuper_stret_Double
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector2_Double
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector2_Double
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector2d_Double
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector2d_Double
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_Double
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_Double
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_stret_Double
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_stret_Double
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSend_Double
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSendSuper_Double
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSend_stret_Double
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSendSuper_stret_Double
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NVector3_Double
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NVector3_Double
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NVector3d_Double
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NVector3d_Double
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_Double
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_Double
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_stret_Double
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_stret_Double
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3d_objc_msgSend_Double
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3d_objc_msgSendSuper_Double
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3d_objc_msgSend_stret_Double
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3d_objc_msgSendSuper_stret_Double
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector4_Double
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector4_Double
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector4d_Double
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector4d_Double
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSend_Double
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSendSuper_Double
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSend_stret_Double
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSendSuper_stret_Double
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4d_objc_msgSend_Double
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4d_objc_msgSendSuper_Double
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4d_objc_msgSend_stret_Double
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4d_objc_msgSendSuper_stret_Double
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSend
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSendSuper
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSend_stret
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSendSuper_stret
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix4d
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix4d
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSend
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSendSuper
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSend_stret
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSendSuper_stret
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NVector3
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NVector3
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSend_Double
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSendSuper_Double
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSend_stret_Double
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSendSuper_stret_Double
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSend
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSendSuper
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSend_stret
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSendSuper_stret
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_MDLAxisAlignedBoundingBox_bool
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_MDLAxisAlignedBoundingBox_bool
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector3_Vector3
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector3_Vector3
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_Vector2i_Vector2i
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_Vector2i_Vector2i
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_stret_Vector2i_Vector2i
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_stret_Vector2i_Vector2i
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_bool_IntPtr_Vector2i_nint_nuint_int_bool
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_bool_IntPtr_Vector2i_nint_nuint_int_bool
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_bool_IntPtr_Vector2i_nint_nuint_Int64_bool
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_bool_IntPtr_Vector2i_nint_nuint_Int64_bool
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_IntPtr_Vector2i_int_int_IntPtr_IntPtr
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_IntPtr_Vector2i_int_int_IntPtr_IntPtr
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_IntPtr_Vector2i_int_Int64_IntPtr_IntPtr
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_IntPtr_Vector2i_int_Int64_IntPtr_IntPtr
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_float_IntPtr_Vector2i
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_float_IntPtr_Vector2i
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_IntPtr_IntPtr_Vector2i
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_IntPtr_IntPtr_Vector2i
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_IntPtr
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_IntPtr
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Matrix4
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Matrix4
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt32_Vector2
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt32_Vector2
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt64_Vector2
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt64_Vector2
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt32_Vector3
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt32_Vector3
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt64_Vector3
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt64_Vector3
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt32_Vector4
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt32_Vector4
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt64_Vector4
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt64_Vector4
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt32_Matrix4
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt32_Matrix4
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt64_Matrix4
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt64_Matrix4
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt32_NMatrix4
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt32_NMatrix4
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt64_NMatrix4
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt64_NMatrix4
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector3i_bool_int_IntPtr
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector3i_bool_int_IntPtr
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector3i_bool_Int64_IntPtr
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector3i_bool_Int64_IntPtr
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_bool_int_IntPtr
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_bool_int_IntPtr
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_bool_Int64_IntPtr
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_bool_Int64_IntPtr
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_bool_bool_int_IntPtr
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_bool_bool_int_IntPtr
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_bool_bool_Int64_IntPtr
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_bool_bool_Int64_IntPtr
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_bool_bool_bool_int_IntPtr
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_bool_bool_bool_int_IntPtr
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_bool_bool_bool_Int64_IntPtr
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_bool_bool_bool_Int64_IntPtr
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_int_bool_int_IntPtr
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_int_bool_int_IntPtr
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_int_bool_Int64_IntPtr
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_int_bool_Int64_IntPtr
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_int_IntPtr
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_int_IntPtr
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_Int64_IntPtr
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_Int64_IntPtr
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_bool_int_IntPtr
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_bool_int_IntPtr
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_bool_Int64_IntPtr
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_bool_Int64_IntPtr
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_int_UInt32_IntPtr
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_int_UInt32_IntPtr
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector3i_int_bool_IntPtr
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector3i_int_bool_IntPtr
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector3i_Int64_bool_IntPtr
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector3i_Int64_bool_IntPtr
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2_Vector2i_int_IntPtr
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2_Vector2i_int_IntPtr
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2_Vector2i_Int64_IntPtr
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2_Vector2i_Int64_IntPtr
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_nuint_nuint_int_bool_bool_IntPtr
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_nuint_nuint_int_bool_bool_IntPtr
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_nuint_nuint_Int64_bool_bool_IntPtr
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_nuint_nuint_Int64_bool_bool_IntPtr
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_Vector2_nuint_nuint_int_bool_IntPtr
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_Vector2_nuint_nuint_int_bool_IntPtr
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_Vector2_nuint_nuint_Int64_bool_IntPtr
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_Vector2_nuint_nuint_Int64_bool_IntPtr
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_Vector2_nuint_nuint_nuint_int_bool_IntPtr
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_Vector2_nuint_nuint_nuint_int_bool_IntPtr
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_Vector2_nuint_nuint_nuint_Int64_bool_IntPtr
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_Vector2_nuint_nuint_nuint_Int64_bool_IntPtr
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__bool_objc_msgSend_Vector2i_nint_float_IntPtr_IntPtr_IntPtr
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__bool_objc_msgSendSuper_Vector2i_nint_float_IntPtr_IntPtr_IntPtr
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__bool_objc_msgSend_Vector2i_IntPtr_IntPtr_IntPtr_IntPtr
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__bool_objc_msgSendSuper_Vector2i_IntPtr_IntPtr_IntPtr_IntPtr
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_IntPtr_Vector2i_int
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_IntPtr_Vector2i_int
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_IntPtr_Vector2i_Int64
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_IntPtr_Vector2i_Int64
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_IntPtr_Vector2i_int_int_bool
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_IntPtr_Vector2i_int_int_bool
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_IntPtr_Vector2i_int_Int64_bool
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_IntPtr_Vector2i_int_Int64_bool
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_int_Vector2i_float_float_float_float
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_int_Vector2i_float_float_float_float
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Int64_Vector2i_float_float_float_float
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Int64_Vector2i_float_float_float_float
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_int_Vector2i_float_float_float_float_float
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_int_Vector2i_float_float_float_float_float
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Int64_Vector2i_float_float_float_float_float
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Int64_Vector2i_float_float_float_float_float
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_IntPtr_Vector2i
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_IntPtr_Vector2i
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_IntPtr_Vector2i_float
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_IntPtr_Vector2i_float
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Matrix4
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Matrix4
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Matrix4_bool
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Matrix4_bool
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_NMatrix4_bool
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_NMatrix4_bool
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_Double
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_Double
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_stret_Double
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_stret_Double
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSend_Double
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSendSuper_Double
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSend_stret_Double
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSendSuper_stret_Double
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector3_Double
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector3_Double
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Matrix4_Double
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Matrix4_Double
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSend_IntPtr_Double
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSendSuper_IntPtr_Double
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSend_stret_IntPtr_Double
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSendSuper_stret_IntPtr_Double
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLVoxelIndexExtent2_objc_msgSend
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLVoxelIndexExtent2_objc_msgSendSuper
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLVoxelIndexExtent2_objc_msgSend_stret
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLVoxelIndexExtent2_objc_msgSendSuper_stret
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_MDLAxisAlignedBoundingBox_float
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_MDLAxisAlignedBoundingBox_float
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__bool_objc_msgSend_Vector4i_bool_bool_bool_bool
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__bool_objc_msgSendSuper_Vector4i_bool_bool_bool_bool
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector4i
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector4i
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_MDLVoxelIndexExtent2
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_MDLVoxelIndexExtent2
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4i_objc_msgSend_Vector3
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4i_objc_msgSendSuper_Vector3
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4i_objc_msgSend_stret_Vector3
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4i_objc_msgSendSuper_stret_Vector3
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_Vector4i
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_Vector4i
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_stret_Vector4i
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_stret_Vector4i
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSend_Vector4i
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSendSuper_Vector4i
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSend_stret_Vector4i
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSendSuper_stret_Vector4i
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_Vector3
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_Vector3
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_stret_Vector3
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_stret_Vector3
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector4
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector4
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_vector_float3__Vector4_objc_msgSend
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_vector_float3__Vector4_objc_msgSendSuper
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_vector_float3__Vector4_objc_msgSend_stret
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_vector_float3__Vector4_objc_msgSendSuper_stret
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_vector_float3__void_objc_msgSend_Vector4
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_vector_float3__void_objc_msgSendSuper_Vector4
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSend
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSendSuper
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSend_stret
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSendSuper_stret
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Quaternion
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Quaternion
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix2_objc_msgSend
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix2_objc_msgSendSuper
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix2_objc_msgSend_stret
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix2_objc_msgSendSuper_stret
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix2
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix2
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Vector4
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Vector4
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Matrix2
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Matrix2
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_NMatrix2
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_NMatrix2
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Matrix3
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Matrix3
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_NMatrix3
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_NMatrix3
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Matrix4
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Matrix4
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_nint
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_nint
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_stret_nint
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_stret_nint
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_CGPoint__VNNormalizedFaceBoundingBoxPointForLandmarkPoint_Vector2_CGRect_nuint_nuint_string
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_CGPoint__VNImagePointForFaceLandmarkPoint_Vector2_CGRect_nuint_nuint_string
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_1
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_2
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_3
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_4
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_5
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_6
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_7
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_8
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_9
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_init_nsthread
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=CreateZStream
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/System.dll
+Function=CloseZStream
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/System.dll
+Function=Flush
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/System.dll
+Function=ReadZStream
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/System.dll
+Function=WriteZStream
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/System.dll
+Function=list_add_object
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=list_add_primitive
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=list_add_string
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=list_add_binary
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=list_set_object
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=list_set_primitive
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=list_set_string
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=list_set_binary
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=list_insert_object
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=list_insert_primitive
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=list_insert_string
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=list_insert_binary
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=list_get_object
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=list_get_primitive
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=list_get_string
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=list_get_binary
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=list_find_object
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=list_find_primitive
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=list_find_string
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=list_find_binary
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=list_erase
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=list_clear
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=list_size
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=list_destroy
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=list_add_notification_callback
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=list_move
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=list_get_is_valid
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=list_get_thread_safe_reference
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=list_snapshot
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=object_get_is_valid
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=object_get_row_index
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=object_destroy
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=object_set_timestamp_ticks
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=object_get_timestamp_ticks
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=object_get_nullable_timestamp_ticks
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=object_set_string
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=object_get_string
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=object_set_link
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=object_get_link
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=object_clear_link
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=object_get_list
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=object_set_null
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=object_set_bool
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=object_get_bool
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=object_get_nullable_bool
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=object_set_int64
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=object_add_int64
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=object_get_int64
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=object_get_nullable_int64
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=object_set_float
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=object_get_float
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=object_get_nullable_float
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=object_set_double
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=object_get_double
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=object_get_nullable_double
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=object_set_binary
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=object_get_binary
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=object_remove_row
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=object_equals_object
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=object_get_backlinks
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=object_get_backlinks_for_type
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=object_get_thread_safe_reference
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=object_add_notification_callback
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=object_get_backlink_count
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=query_binary_equal
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=query_binary_not_equal
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=query_string_contains
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=query_string_starts_with
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=query_string_ends_with
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=query_string_equal
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=query_string_not_equal
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=query_string_like
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=query_bool_equal
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=query_bool_not_equal
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=query_int_equal
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=query_int_not_equal
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=query_int_less
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=query_int_less_equal
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=query_int_greater
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=query_int_greater_equal
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=query_long_equal
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=query_long_not_equal
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=query_long_less
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=query_long_less_equal
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=query_long_greater
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=query_long_greater_equal
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=query_float_equal
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=query_float_not_equal
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=query_float_less
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=query_float_less_equal
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=query_float_greater
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=query_float_greater_equal
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=query_double_equal
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=query_double_not_equal
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=query_double_less
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=query_double_less_equal
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=query_double_greater
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=query_double_greater_equal
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=query_timestamp_ticks_equal
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=query_timestamp_ticks_not_equal
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=query_timestamp_ticks_less
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=query_timestamp_ticks_less_equal
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=query_timestamp_ticks_greater
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=query_timestamp_ticks_greater_equal
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=query_object_equal
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=query_null_equal
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=query_null_not_equal
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=query_find
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=query_find_next
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=query_get_column_index
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=query_not
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=query_group_begin
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=query_group_end
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=query_or
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=query_destroy
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=query_count
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=query_create_results
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=query_create_sorted_results
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=results_is_same_internal_results
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=results_destroy
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=results_get_object
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=results_get_primitive
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=results_get_string
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=results_get_binary
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=results_count
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=results_clear
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=results_add_notification_callback
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=results_get_query
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=results_get_is_valid
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=results_get_thread_safe_reference
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=results_snapshot
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=results_get_filtered_results
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=shared_realm_open
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=shared_realm_set_managed_state_handle
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=shared_realm_get_managed_state_handle
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=shared_realm_destroy
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=shared_realm_close_realm
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=shared_realm_begin_transaction
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=shared_realm_commit_transaction
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=shared_realm_cancel_transaction
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=shared_realm_is_in_transaction
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=shared_realm_refresh
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=shared_realm_get_table
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=shared_realm_is_same_instance
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=shared_realm_get_schema_version
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=shared_realm_compact
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=shared_realm_resolve_object_reference
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=shared_realm_resolve_list_reference
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=shared_realm_resolve_query_reference
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=shared_realm_write_copy
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=shared_realm_create_object
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=shared_realm_create_object_int_unique
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=shared_realm_create_object_string_unique
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=shared_realm_get_schema
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=shared_realm_install_callbacks
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=shared_realm_has_changed
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=table_count_all
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=table_unbind
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=table_get_column_index
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=table_create_results
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=table_create_sorted_results
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=object_for_string_primarykey
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=object_for_int_primarykey
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=object_for_null_primarykey
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=delete_pointer
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=realm_reset_for_testing
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=realm_install_eventloop_callbacks
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=thread_safe_reference_destroy
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=object_destroy_notificationtoken
+	/Users/edvaldo/Projects/XamarinDataBaseRealm/XamarinDataBaseRealm.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Realm.dll
+Function=mono_pmip
+Function=xamarin_dyn_objc_msgSend
+Function=xamarin_dyn_objc_msgSendSuper
+Function=xamarin_dyn_objc_msgSend_stret
+Function=xamarin_dyn_objc_msgSendSuper_stret

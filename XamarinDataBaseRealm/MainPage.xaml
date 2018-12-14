@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:local="clr-namespace:XamarinDataBaseRealm" x:Class="XamarinDataBaseRealm.MainPage">
+    <StackLayout Orientation="Vertical"
+                 VerticalOptions="Center"
+                 Margin="16">
+        <!-- Place new controls here -->
+         
+         <Button BackgroundColor="Maroon"
+                 Text="New contact" 
+                 HorizontalOptions="FillAndExpand" 
+                 VerticalOptions="Center"
+                 Clicked="NewContact"
+                 TextColor="White"  />
+        <Button BackgroundColor="Maroon"
+                 Text="List all contacts" 
+                 HorizontalOptions="FillAndExpand" 
+                 VerticalOptions="Center"
+                Clicked="OpenListContacts"
+                 TextColor="White"  />
+    </StackLayout>
+</ContentPage>
